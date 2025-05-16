@@ -12,3 +12,8 @@ hex = "0.4.3"
 ripemd160 = "0.10.0"
 base58 = "0.2.0"
 rand = "0.9.0 "
+hmac = "0.13.0-pre.5"
+ripemd = "0.1.3"
+bip39 = "2.1.0"
+pbkdf2 = "0.12.2"
+bs58 = { version = "0.5", features = ["check"] }  # 支持校验和自动计算
